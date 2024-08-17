@@ -75,6 +75,18 @@
     margin: 30px 10px 10px 10px;
 }
 
+.menu .botao i {
+    background: #085ce6;
+    padding: 5px;
+    border-radius: 50%;
+    font-size: 15px;
+    margin: 10px;
+}
+
+.menu .botao:hover i {
+    background: #083999;
+}
+
 .menu .botao:hover {
     background: #085ce6;
 }
